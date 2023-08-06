@@ -26,9 +26,9 @@
 ### 게시판
 * 기본적인 CRUD를 구현 및 댓글 작성, 수정, 삭제
 * 사람들과 소통하는 게시판과 공지사항 게시판으로 구분
-* 
-# DB 
 
+# DB 
+<img src="https://github.com/minseo0591/Study_Plaform/assets/85215467/a31b7720-7dfe-4d62-a6b7-afb16cd4cae2" width="600" height="370">
 
 
 #### 메인 페이지
