@@ -15,3 +15,6 @@
 
 #### 학습자 학습진도
 <img src="https://github.com/minseo0591/Study_Plaform/assets/85215467/66ad5053-b10b-4412-9a9b-da132c1ccac3" width="600" height="370">
+
+### 학습자 강의 영상
+<img src="https://github.com/minseo0591/Study_Plaform/assets/85215467/8dd9f113-e842-4e8a-8b9d-9c179ac2ae17" width="600" height="370">
