@@ -1,0 +1,71 @@
+
+
+header .navbar {
+  z-index: 75;
+  height: 64px;
+  box-shadow: 0 2px 4px 0 hsl(0deg 0% 81% / 50%);
+}
+
+header .navbar .container {
+  padding: 0 10px;
+}
+
+header .navbar .container {
+  display: flex;
+}
+
+header .navbar .navbar-logo {
+  margin-right: 8px;
+  width: 110px;
+  height: 64px;
+}
+
+header .navbar .navbar-logo a {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+header .navbar .navbar-logo a svg {
+  fill: #1dc078;
+}
+
+.navbar-item {
+  color: #4a4a4a;
+  position: relative;
+  line-height: 1.5;
+  display: flex;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+}
+
+#recent-lecture a {
+  height: auto;
+  padding: 8px 8px;
+  background-color: rgb(182, 89, 212);
+  border-radius: 4px;
+  color: white;
+  font-weight: 600;
+  line-height: 1;
+  margin-top: 2px;
+}
+#tt{
+  margin-right: 250px;
+}
+
+.container {
+  
+  
+  position: relative;
+  margin: 0 auto;
+}
+
+

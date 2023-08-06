@@ -1,0 +1,234 @@
+.container {
+  padding: 0 10px;
+}
+
+/* COURSES */
+.courses {
+  padding: 24px 0;
+}
+
+.courses .container {
+  padding: 0 10px;
+}
+
+.courses .container .courses-wrapper .courses-lists {
+  width: 100%;
+  height: 100%;
+  position: relative;
+ 
+  
+}
+
+.courses .container .courses-wrapper .courses-lists .swiper-container {
+  display: flex;
+  padding: 6px 0;
+  box-sizing: content-box;
+  
+}
+
+.courses
+  .container
+  .courses-wrapper
+  .courses-lists
+  .swiper-container
+  .swiper-wrapper
+  .swiper-slide {
+  max-width: calc((100% - 8px) / 5);
+}
+
+.courses
+  .container
+  .courses-wrapper
+  .courses-lists
+  .swiper-container
+  .swiper-wrapper
+  .swiper-slide
+  .course-card {
+  height: 100%;
+}
+
+.courses
+  .container
+  .courses-wrapper
+  .courses-lists
+  .swiper-container
+  .swiper-wrapper
+  .swiper-slide
+  .course-card
+  .course-card--front
+  .card-detail {
+  padding: 0.5rem 0;
+}
+
+.courses
+  .container
+  .courses-wrapper
+  .courses-lists
+  .swiper-container
+  .swiper-wrapper
+  .swiper-slide
+  .course-card
+  .course-card--front
+  .card-detail
+  .course-title {
+  font-weight: 700;
+  line-height: 1.5em;
+  height: 3rem;
+  overflow: auto;
+}
+
+.courses /* 미리보기 회사 이름*/
+  .container
+  .courses-wrapper
+  .courses-lists
+  .swiper-container
+  .swiper-wrapper
+  .swiper-slide
+  .course-card
+  .course-card--front
+  .card-detail
+  .course-instructor {
+  color: #7d7d7d;
+  font-size: 0.9rem;
+}
+
+.courses
+  .container
+  .courses-wrapper
+  .courses-lists
+  .swiper-container
+  .swiper-wrapper
+  .swiper-slide
+  .course-card
+  .course-card--front
+  .card-detail
+  .course-rating {
+  position: relative;
+}
+
+.courses
+  .container
+  .courses-wrapper
+  .courses-lists
+  .swiper-container
+  .swiper-wrapper
+  .swiper-slide
+  .course-card
+  .course-card--front
+  .card-detail
+  .course-rating
+  .rating-stars {
+  width: 4.5rem;
+  display: inline-flex;
+  justify-content: flex-start;
+}
+
+.courses/*별점*/
+  .container
+  .courses-wrapper
+  .courses-lists
+  .swiper-container
+  .swiper-wrapper
+  .swiper-slide
+  .course-card
+  .course-card--front
+  .card-detail
+  .course-rating
+  .rating-stars
+  svg {
+  color: #fdcc11;
+  width: 0.9rem;
+  height: 0.9rem;
+}
+
+.courses/*별점 몇명인지 확인*/
+  .container
+  .courses-wrapper
+  .courses-lists
+  .swiper-container
+  .swiper-wrapper
+  .swiper-slide
+  .course-card
+  .course-card--front
+  .card-detail
+  .course-rating
+  .review-count {
+  font-size: 0.5rem;
+  position: absolute;
+  bottom: 0.3rem;
+  color: #4a4a4a;
+}
+
+.courses
+  .container
+  .courses-wrapper
+  .courses-lists
+  .swiper-container
+  .swiper-wrapper
+  .swiper-slide
+  .course-card
+  .course-card--front
+  .card-detail
+  .course-price {
+  color: #175cbe;
+  font-weight: 700;
+}
+
+.courses
+  .container
+  .courses-wrapper
+  .courses-lists
+  .swiper-container
+  .swiper-wrapper
+  .swiper-slide
+  .course-card
+  .course-card--front
+  .card-detail
+  .course-tags {
+  display: flex;
+  padding-top: 0.5rem;
+  box-sizing: content-box;
+}
+
+.courses
+  .container
+  .courses-wrapper
+  .courses-lists
+  .swiper-container
+  .swiper-wrapper
+  .swiper-slide
+  .course-card
+  .course-card--front
+  .card-detail
+  .course-tags
+  .tag {
+  background-color: hsl(321, 63%, 90%);
+}
+
+
+
+
+.container {/*전체 컨테이너*/
+  padding: 0 10px;
+}
+
+.container { /*전체 컨테이너 */
+  margin-bottom: 16px;
+}
+
+.container a .title { /*글씨 속성*/
+  
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+.container .header a .title .icon {/*글씨 속성*/
+  width: 1rem;
+  height: 1rem;
+  line-height: 1;
+  font-size: 1rem;
+  display: inline;
+  margin-left: 10px;
+}
+
+
