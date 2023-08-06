@@ -1,5 +1,5 @@
 # Study_Plaform
-온라인 강의 사이트 
+온라인 강의 팀 프로젝트입니다. 
 
 #### 메인 페이지
 <img src="https://github.com/minseo0591/Study_Plaform/assets/85215467/7be222b3-4f64-4740-812b-bcc2b65e9d94" width="600" height="370">
