@@ -1,6 +1,25 @@
 # Study_Plaform
 온라인 강의 팀 프로젝트입니다. 
 
+# 기술 스택
+* JAVA
+* Servlet & JSP
+* MYSQL
+* HTML,CSS,JS
+* JQUERY
+
+# 구현 기능
+### 계정
+1. 로그인, 회원가입 중복, 로그아웃
+2. 마이 페이지 프로필, 마지막 강의 이어서 학습
+3. 학습통계 (완료한 수강 수, 듣고 있는 수강 수, 강의 리뷰수)와 수강 리스트
+4. 
+
+
+# DB 
+
+
+
 #### 메인 페이지
 <img src="https://github.com/minseo0591/Study_Plaform/assets/85215467/7be222b3-4f64-4740-812b-bcc2b65e9d94" width="600" height="370">
 
