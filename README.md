@@ -28,7 +28,6 @@
 * 사람들과 소통하는 게시판과 공지사항 게시판으로 구분
 
 # 데이터 베이스
-<img src="https://github.com/minseo0591/Study_Plaform/assets/85215467/a31b7720-7dfe-4d62-a6b7-afb16cd4cae2" width="600" height="370">
 
 # 화면
 
